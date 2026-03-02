@@ -1,1 +1,1 @@
-# My First Repository
+#The K-Means model successfully grouped customers into 5 homogeneous clusters by minimizing within-cluster variance (SSE). The Elbow method indicates K=5 as optimal, providing meaningful segmentation for business decision-making
